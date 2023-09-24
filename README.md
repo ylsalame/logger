@@ -1,5 +1,11 @@
 # Simple Logger
 
+## Running
+
+- Clone this repo
+- serve directly with php-cli by running:
+	> php -S localhost:7111
+
 ## Assumptions
 
 - Laravel is not being used and the code is meant to be generic. This is because the Log facade in Laravel does most of what is being done here. This also means that:
